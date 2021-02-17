@@ -11,9 +11,7 @@ Voce precisa ter o compilador [GCC](https://gcc.gnu.org/) para rodar os codigos 
 
 O codigos sao compativeis com Linux e macOS. 
 
-Para utilizar esses codigos no Windows sem GCC, voce precisara instalar o software [DevC++]
-(https://sourceforge.net/projects/orwelldevcpp/files/latest/download) ou [CodeBlocks]
-(https://www.codeblocks.org/downloads/) pois estes sao os mesmos disponiveis em nossos laboratorios. Ainda recomendo o [Visual Studio](https://visualstudio.microsoft.com/pt-br/) pois eh o meu favotrito, mas eh mais pesado e exige um computador com configuracoes intermediarias.
+Para utilizar esses codigos no Windows sem GCC, voce precisara instalar o software [DevC++](https://sourceforge.net/projects/orwelldevcpp/files/latest/download) ou [CodeBlocks](https://www.codeblocks.org/downloads/) pois estes sao os mesmos disponiveis em nossos laboratorios. Ainda recomendo o [Visual Studio](https://visualstudio.microsoft.com/pt-br/) pois eh o meu favotrito, mas eh mais pesado e exige um computador com configuracoes intermediarias.
 
 ## Content
 
