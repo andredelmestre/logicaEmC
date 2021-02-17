@@ -1,6 +1,5 @@
 # Programacao Estruturada 
-===================
-## !! Material em construcao !! ##
+## _!! Material em construcao !!_ ##
 
 Contem material completo para cursar a disciplina de Programacao Estruturada oferecida no curso Tecnico Integrado de Informatica do [IFSul](http://www.ifsul.edu.br/) campus [Charqueadas](http://www.charqueadas.ifsul.edu.br/portal/).
 
@@ -21,6 +20,7 @@ Para utilizar esses codigos no Windows sem GCC, voce precisara instalar o softwa
 Aqui voce encontra:
 
 `codigos` - codigos em C trabalhados em aula
+
 `slidesPDF` - slides que apresentam cada topico da disciplina
 
 O conteudo esta dividido em 9 topicos:
