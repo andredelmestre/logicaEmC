@@ -1,5 +1,5 @@
 # Programacao Estruturada 
-## _!! Material em construcao !!_ ##
+## _:warning: Material em construcao :warning:_ ##
 
 Contem material completo para cursar a disciplina de Programacao Estruturada oferecida no curso Tecnico Integrado de Informatica do [IFSul](http://www.ifsul.edu.br/) campus [Charqueadas](http://www.charqueadas.ifsul.edu.br/portal/).
 
